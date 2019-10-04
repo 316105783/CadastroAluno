@@ -4,3 +4,4 @@ RA:
 NOME:
 TELEFONE:
 E-MAIL:
+CEP:
